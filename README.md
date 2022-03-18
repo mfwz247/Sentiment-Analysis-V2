@@ -12,11 +12,13 @@ Thanks to this paper
 3 - https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12189
 
 I did excel cleaning to this file as it looked like this before cleaning:
+
+
 ![image](https://user-images.githubusercontent.com/81578056/159089631-fbce8d57-cac2-4bbb-99d2-3a7c41b5f588.png)
 
 to look like this : 
 
-![image](https://user-images.githubusercontent.com/81578056/159090130-9e342a42-2df5-4869-8233-2af0755c22d4.png)
+![image](https://user-images.githubusercontent.com/81578056/159090707-489f598a-081f-4524-9f91-297eb7eb9aa5.png)
 
 
 using these functions thanks to Microsoft!
