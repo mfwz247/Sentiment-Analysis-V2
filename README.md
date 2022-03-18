@@ -1,6 +1,7 @@
 # Sentiment-Analysis-V2
 This is Sentiment analysis as an assessment Challenge 2
-link in kaggle : https://www.kaggle.com/code/muhammadfawzy/handwritten-arabic-characters-recognizer
+
+kaggle : https://www.kaggle.com/code/muhammadfawzy/sentiment-analysis-v2
 data that I collected from:
 
 1 - http://saifmohammad.com/WebPages/TweetEmotionIntensity-dataviz.html
