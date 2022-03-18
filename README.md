@@ -11,6 +11,23 @@ Thanks to this paper
 
 3 - https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12189
 
+I did excel cleaning to this file as it looked like this before cleaning:
+![image](https://user-images.githubusercontent.com/81578056/159089631-fbce8d57-cac2-4bbb-99d2-3a7c41b5f588.png)
+
+to look like this : 
+
+![image](https://user-images.githubusercontent.com/81578056/159090130-9e342a42-2df5-4869-8233-2af0755c22d4.png)
+
+
+using these functions thanks to Microsoft!
+
+=IF(OR(C3,D3,E3,F3),C3+D3+E4+F5,0)
+=IF(C2,$C$1,IF(D2,$D$1,IF(E2,$E$1,IF(F2,$F$1,"unknown"))))
+
+![image](https://user-images.githubusercontent.com/81578056/159090576-8b81c9d4-eb68-417d-bb48-48042f471766.png)
+![image](https://user-images.githubusercontent.com/81578056/159090592-a9456ab6-207e-438b-ad80-502a20050c8a.png)
+
+
 Sources that helped me through this challenge: 
 
 https://www.analyticsvidhya.com/blog/2021/06/natural-language-processing-sentiment-analysis-using-lstm/
