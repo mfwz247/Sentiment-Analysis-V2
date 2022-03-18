@@ -10,7 +10,7 @@ Thanks to this paper
 
 3 - https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12189
 
-Sources that helped me in this challenge: 
+Sources that helped me through this challenge: 
 
 https://www.analyticsvidhya.com/blog/2021/06/natural-language-processing-sentiment-analysis-using-lstm/
 https://www.kaggle.com/code/paoloripamonti/twitter-sentiment-analysis
